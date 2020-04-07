@@ -1,0 +1,2 @@
+vagrant password 
+Singapore#2020
